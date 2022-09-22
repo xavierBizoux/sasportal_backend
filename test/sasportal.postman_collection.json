@@ -7,22 +7,6 @@
 	},
 	"item": [
 		{
-			"name": "get preferences for user",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "get shortcuts for user",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
 			"name": "create preferences",
 			"request": {
 				"method": "POST",
@@ -48,38 +32,6 @@
 						"preferences"
 					]
 				}
-			},
-			"response": []
-		},
-		{
-			"name": "delete preferences for user",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "delete shortcuts for user",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "Update preferences for user",
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "Update shortcuts for user",
-			"request": {
-				"method": "GET",
-				"header": []
 			},
 			"response": []
 		},
@@ -110,6 +62,54 @@
 						"shortcuts"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "get preferences for user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get shortcuts for user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update preferences for user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update shortcuts for user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete preferences for user",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete shortcuts for user",
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
