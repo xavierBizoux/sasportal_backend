@@ -1,5 +1,5 @@
 const dbConfig = {
-    url: "mongodb://localhost:27017/sasportal_db"
+    url: "mongodb+srv://db_user:User1856@cluster0.i414s.mongodb.net/?retryWrites=true&w=majority"
 }
 
 export default dbConfig

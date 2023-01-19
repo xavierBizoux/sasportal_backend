@@ -2,7 +2,7 @@
   "name": "sasportal_backend",
   "version": "1.0.0",
   "description": "Backend server for the sasportal project",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "author": "Xavier BIZOUX",
   "license": "Apache 2.0",
